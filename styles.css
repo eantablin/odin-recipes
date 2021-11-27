@@ -1,8 +1,33 @@
 * {
     text-align: center;
+    background-color: skyblue;
 }
 
 img {
     height: 400;
     width: 500;
+}
+
+.pageheader {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.description {
+    color: green;
+    background-color: rgb(100, 49, 49);
+}
+
+.ingredients {
+    color: blue;
+    background-color: yellowgreen;
+}
+
+.steps {
+    color: orangered;
+    background-color: orchid;
+}
+
+.conclusion {
+    color: palegoldenrod;
+    background-color: peru;
 }

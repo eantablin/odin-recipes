@@ -4,6 +4,8 @@
 }
 
 img {
+    vertical-align: middle;
+    border-style: none;
     height: 400;
     width: 500;
 }
